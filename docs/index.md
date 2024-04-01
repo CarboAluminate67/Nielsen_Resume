@@ -1,86 +1,51 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Alex Nielsen's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Alex Nielsen
+Enthusiastic computer science major with a passion for aerospace and rocketry. Dedicated learner excited to explore the industry. Exceptional work ethic and determined to get my foot into the door of the spaceflight field.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="www.linkedin.com/in/alex-nielsen-48a969278">LinkedIn</a>
+| <a href="https://github.com/CarboAluminate67/">GitHub</a> |
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected December 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+-	Data Science Emphasis
+-	3.93 GPA
 
 ## Related Experience
 
-### Internships
+### Science Olympiad Competitor
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2018 - June 2021`
+__Atkins High School__, Winston-Salem, NC
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Participated in statewide competitions for all STEM fields.
+- Used programming knowledge and Agile development to create winning Arduino devices.
+- Applied the engineering process to design and test working model airplanes and rockets.
+- Collaborated with teammates to solve engineering problems and create innovative technical solutions.
 
-### Data Science Lead
+### Shift Manager
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`October 2021 - Present`
+__Five Guys LLC__, Winston-Salem, NC
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Delegated tasks and supervised productivity, performance, and cooperation.
+- Prepared shipment orders and monitored sales data.
+- Provided personalized service and addressed internal and external conflicts.
+- Maintained hardware with attention to detail.
+- Led daily shift meetings to communicate items of interest to staff.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+## References
+ - Joseph Patterson: Current Supervisor: General Manager, Five Guys
+ - Marie Shepard: Friend: Contract Safety Manager, NASA
+ - Carl Champagne: Friend: Chief Master Seargent, U.S. Air Force
 
 <!-- ### Footer
 
